@@ -4,7 +4,7 @@ Welcome to my portfolio project! In this project, I've used Python to perform a 
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Files and Descriptions](#files-and-descriptions)
+- [Folder Description](#Folder-Description)
 
 
 
@@ -13,7 +13,7 @@ In this portfolio project, I've applied my Python skills to web scrap Uber Eats 
 The goal was to gain insights, visualize patterns, and extract valuable information from the available datasets.
 
 
-## Project Structure
+## Folder Description
 - **`/data`**: This directory contains the dataset files used for the data scrapping.
    - **`/categorias.txt`**: list of the categories that are used by Uber eats.
 - **`/scripts`**: contains all the scripts used for scraping in the form of Jupyter Notebooks.
